@@ -38,4 +38,4 @@ async def on_message(message):
 
 #pip install -U discord==1.7.3 pip install -U discord.py==1.7.3
 
-client.run("MTA2NTE1NDgwNDEzOTE2MzY4OA.GxZrRc.Aq4orHahKCiFfMkz4u1HIvKdpojQUqDcrQD2IM",bot = False)
+client.run("",bot = False)
